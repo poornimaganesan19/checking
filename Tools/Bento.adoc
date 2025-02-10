@@ -1,5 +1,0 @@
-= Bento
-
-Bento is the authoring tool we use to create online documentation in AsciiDoc format. It is designed to compile a hierarchical set of AsciiDoc pages into a website with navigation mechanisms.
-
-*Installation Guide:* https://metamation-devbook.onrender.com/documentation/workflow/prerequisites.html#_install_and_run_bento[Install and Run Bento]

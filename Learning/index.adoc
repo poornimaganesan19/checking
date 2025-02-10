@@ -1,6 +1,0 @@
-= Learning
-
-. xref:GitHub-Coursera#[GitHub-Coursera]
-. xref:AsciiDoc#[AsciiDoc Syntax]
-. xref:Bento#[Documentation using Bento]
-. xref:FogBugz#[FogBugz]

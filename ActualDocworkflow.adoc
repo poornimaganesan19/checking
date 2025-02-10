@@ -1,3 +1,0 @@
-= Actual Documentation
-
-The link https://metamation-devbook.onrender.com/documentation/index.html[Documentation Guide] will guide you on the actual documentation worklflow. 

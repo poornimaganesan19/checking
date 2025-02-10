@@ -1,9 +1,0 @@
-= Git
-:icons: font
-
-Git is a *distributed version control system*.
-
-NOTE: *Version Control System* allows us to keep track of when & who did what changes to our files. Those can be code, configuration, images or whatever else we need to track.
-
-*Installation Guide:* 
-https://metamation-devbook.onrender.com/tools/configuregit.html#_pre_requisites[Configuring Git]

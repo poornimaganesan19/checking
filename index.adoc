@@ -1,5 +1,0 @@
-= Introduction
-
-Welcome to the Documentation Team! This "Quick Start Guide" will help you with the initial setup and provide essential information about our team's workflow and key learnings to get you up to speed. 
-
-The Documentation Team at TRUMPF Metamation is responsible for creating and maintaining comprehensive documentation that supports the company's products and services. This team plays a crucial role in ensuring that all users, from customers to internal staff, have the necessary information to use TRUMPF Metamation's products effectively and safely. 

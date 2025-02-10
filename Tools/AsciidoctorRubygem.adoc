@@ -1,6 +1,0 @@
-= AsciiDoctor Ruby Gem
-
-Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. Asciidoctor is written in Ruby, packaged as a RubyGem and published to RubyGems.org.
-
-*Installation Guide:* 
-https://metamation-devbook.onrender.com/documentation/workflow/prerequisites.html#_install_ruby_gem[Install Ruby Gem]
