@@ -1,0 +1,17 @@
+= FogBugz
+:imagesdir: img
+:icons: font
+
+FogBugz ia a project management software which helps you spend less time on managing, and more on creating your digital masterpiece.
+
+[blue]*Setup Guide:* +
+[green]#*Step 1:*# Initiate an email request to Mr. Sanjiv for FogBugz access. +
+[green]#*Step 2:*# After you have given access, an email notification will be received along with password change link. +
+[green]#*Step 3:*# Change the password and Log in to Fogbugz. +
+[green]#*Step 4:*# Using Refine Further option, select Documentation project. +
+[green]#*Step 5:*# Using Sort option, select Area. +
+[green]#*Step 6:*# To customize the fogbugz column, click Select Columns and choose required columns from the list. +
+
+image:filter.png[]
+
+[green]#*Step 7:*# Based on priority level, review and select a documentation case assigned for document creation/revision. +

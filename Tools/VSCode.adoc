@@ -1,0 +1,8 @@
+= Visual Studio Code
+
+Visual Studio Code (VS Code) is a popular, free, and open-source code editor developed by Microsoft. It's available on multiple platforms, including Windows, macOS, and Linux.
+
+*Installation Guide:* 
+
+* https://metamation-devbook.onrender.com/documentation/workflow/prerequisites.html#_ms_visual_studio_code[MS Visual Studio Code] +
+* https://metamation-devbook.onrender.com/documentation/workflow/prerequisites.html#_asciidoc_extension_from_vs_code[AsciiDoc Extension from VS Code]

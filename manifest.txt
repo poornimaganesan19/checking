@@ -1,0 +1,4 @@
+TITLE=Documentation - Quick Start Guide
+OUTDIR=../QuickStartGuidehtml
+LOGO=img/logo.png
+COPYRIGHT=Copyright &copy; 2023 by Metamation. All rights reserved.

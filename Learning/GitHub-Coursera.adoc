@@ -1,0 +1,6 @@
+= GitHub-Coursera
+:icons: font
+
+NOTE: Contact Documentation team to enroll this course.
+
+This online course on Coursera is designed for beginners to learn the fundamentals of version control using Git and GitHub.The course includes practical exercises to help you understand key concepts. 
